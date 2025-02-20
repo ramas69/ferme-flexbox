@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding: 0px;;
+}
+
+body {
+    background-color: #E1E1E1;
+}
+
+.ligne-haut{
+    padding: 5px;
+    background-color: white;
+}
+
+.house {
+    width: 100px
+}
+
+.housing {
+    text-align:center;
+}
+
+.wheat{
+    width:150px;
+}
+
+.wheat-duo{
+    display: flex;
+}
+
+.tree{
+    width:345px;
+}
+
+.ligne-bas{
+    display: flex;
+    justify-content: space-around;
+    margin-top:50px;
+}
+
+section{
+    width:24%;
+    background-color: white;
+    padding: 5px;
+}
+
